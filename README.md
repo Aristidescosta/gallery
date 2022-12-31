@@ -2,26 +2,23 @@
 
 Galeria de fotos feito com react-typeScript com integração com firebase
 
-## 🚀 Começando
-- Clone o projecto em sua máquina local pelo git ou aperte no botão code em seguida `download zip`
-
-### 📋 Pré-requisitos
+## 📋 Pré-requisitos
 - Ter o node instalado em sua máquina
 - Conexão com a internet
+
+## 🚀 Começando
+### Clonando o projecto pelo cmd
+```
+git clone https://github.com/Aristidescosta/gallery.git
+```
+### Baixando o projecto zip
+- Precione o botão `code` (botão verde) em seguida `download zip`
 
 ### 🔧 Instalação
 - Na raiz do projecto insira os comandos abaixo
 ```
   npm install
 ```
-## ⚙️ Executando os testes
-### Testes normais
-- Selecione um ficheiro no input
-- Precione o botão enviar
-
-### Testes de erros
-- Selecione um ficheiro diferente de uma imagem
-- Precione o botão enviar
 
 ## 🛠️ Construído com
 - React
